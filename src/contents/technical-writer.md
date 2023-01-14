@@ -1,8 +1,8 @@
 ---
 title: What's a technical writer?
 author: Elizabeth Tai
-datetime: 2022-12-20
-slug: my-recent-2
+datetime: 2023-01-05
+slug: technical-writer
 featured: false
 draft: false
 tags:

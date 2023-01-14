@@ -3,7 +3,7 @@ author: Elizabeth Tai
 datetime: 2023-01-10
 title: Every job will teach you something
 slug: "lessons-from-work"
-featured: false
+featured: true
 draft: false
 tags:
   - career

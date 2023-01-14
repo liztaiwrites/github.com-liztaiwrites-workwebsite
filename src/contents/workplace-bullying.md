@@ -1,23 +1,20 @@
 ---
 author: Elizabeth Tai
 datetime: 2023-01-12
-title: How to recover from workplace bullying
-slug: workplace-bullying-recovery
+title: Recovering from workplace bullying
+slug: "workplace-bullying"
 featured: true
 draft: false
 tags:
   - career
-  - mental health
 ogImage: ""
 description:
-Recovering mentally and phsycially after being the target of a workplace bully.
+ A toxic job can have a big impact on your physical and mental health. Here's how to recover.
 ---
 
 One of the problems with the #workplacebullying space is that there's a lot of content about what to do *during* the aggression but not after.
 
 I'm not talking about dealing with HR, lawsuits or the industrial court, but how targets can recover mentally from the trauma.
-
-## Recovery is possible
 
 But here's what can help, based on my experience and seeing what some of my friends have done:
 
@@ -34,5 +31,3 @@ But here's what can help, based on my experience and seeing what some of my frie
 Workplace bullying is hard and hell, but it doesn't have to define your entire life.
 
 If you have experienced bullying at work before, what were the things you did to move on and recover?
-
-[Leave a comment on Linkedin](https://www.linkedin.com/posts/elizabethtai_workplacebullying-activity-7019103807812894720-4v1E/?utm_source=share&utm_medium=member_desktop/).
