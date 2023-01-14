@@ -1,5 +1,5 @@
 ---
-title: What if you made the wrong career move?
+title: When you make the wrong career move
 author: Elizabeth Tai
 datetime: 2022-02-20T16:00:53Z
 slug: wrong-career-move
@@ -8,7 +8,7 @@ draft: false
 tags:
   - career change
 
-description: It happens. The career you thought would be perfect for you turns out to be a disaster. What now?
+description: It happens. The career you thought would be perfect for you turns out to be a disaster. What do after.
 ---
 
 What if you made a career decision but then realised it was the wrong move? What do you do?
