@@ -12,9 +12,12 @@ ogImage: ""
 description:
 Recovering mentally and phsycially after being the target of a workplace bully.
 ---
+
 One of the problems with the #workplacebullying space is that there's a lot of content about what to do *during* the aggression but not after.
 
 I'm not talking about dealing with HR, lawsuits or the industrial court, but how targets can recover mentally from the trauma.
+
+## Recovery is possible
 
 But here's what can help, based on my experience and seeing what some of my friends have done:
 
