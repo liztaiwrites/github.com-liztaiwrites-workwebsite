@@ -3,7 +3,7 @@ author: Elizabeth Tai
 datetime: 2023-01-14
 title: Be careful what you post on Linkedin
 slug: what-to-post-on-Linkedin
-featured: true
+featured: false
 draft: false
 tags:
   - social media

@@ -3,11 +3,11 @@ title: What's a technical writer?
 author: Elizabeth Tai
 datetime: 2023-01-05
 slug: technical-writer
-featured: false
+featured: true
 draft: false
 tags:
   - technical writing
-  - career
+  - writing careers
 
 description: What do technical writers actually do? And what does it take to be one?
 ---

@@ -1,7 +1,7 @@
 ---
 title: Social media's fed-up point
 author: Elizabeth Tai
-datetime: 2023-01-02
+datetime: 2022-11-02
 slug: twitter-mess
 featured: true
 draft: false
@@ -21,7 +21,7 @@ The main appeal of these tools is that they are not algorithm-driven. Meaning, w
 
 For example, take Substack, a popular online tool used by millions of creators to send newsletters. If something happens to the platform, the rules change etc, users can take away their mailing lists to another platform that best suits their needs.
 
-## The move from centralised platforms
+## Newsletters gaining popularity
 
 For the last few weeks, I've been stumbling on more and more writers who are moving away from their blogs to write on Substack. Many say that they just "want to write more freely".
 
@@ -31,13 +31,11 @@ Fascinating times in the content world.
 
 I've recently done the same, and I've never felt freer as a writer. And as a reader? Boy, I'm really excited by the content I'm reading from fellow creators. I realised with a start, how much effort it was beofre to find this content on Google search.
 
-# TWitter chaos
-
 I think that's why I'm not too concerned about Twitter as a user. I'll still be there. For now.
 
 You see, I have always been strict with my feed. I follow a select few and mute content I find stressful or upsetting. As a result, my Twitter space is generally filled with fun, knowledge-sharing folks who don't stir up much drama.
 
-You _can_ make Twitter a good place for you, but it will take work.
+You can make Twitter a good place for you, but it will take work.
 
 As a citizen of the world, however, I'm concerned about the increasing polarisation and disinformation I see online. I see people shouting at each other, refusing to listen to one another. I'm also worried that bad players with deep pockets could use this to their advantage. You know, like manipulate elections! I don't see how Elon is going to improve things. (I have my theories that algorithms, who tend to promote content that are more controversial, have played a part in this.)
 
