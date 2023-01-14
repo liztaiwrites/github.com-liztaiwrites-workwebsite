@@ -6,18 +6,19 @@ slug: what-to-post-on-Linkedin
 featured: true
 draft: false
 tags:
-  - socialmedia
+  - social media
 ogImage: ""
-description:
-  What you post on Linkedin could reflect on you as a professional.
+description: What you post on Linkedin could reflect on you as a professional.
 ---
+
 # What should you post on Linkedin?
 
 Unpopular opinion: You need to be very careful about what you post on Linkedin.
 
 For example, I know that Linkedin is a place where past, present and future bosses and colleagues dwell, so I'm more measured here.
-  
-That doesn't mean I tout a fake persona of myself. Instead, I'm very focused and strategic about my content. I share stuff that (I hope) will benefit my desired audience: 
+
+That doesn't mean I tout a fake persona of myself. Instead, I'm very focused and strategic about my content. I share stuff that (I hope) will benefit my desired audience:
+
 - The projects I am taking on to build my skills as a technical writer (for eg, currently I'm building a static website to beef up my HTML & CSS skills and learn JS and version control (Git)
 - My experience with career change and less desirable bits of career management - managing toxicity at work
 - Mental and physical health tips that will enable you to thrive at work

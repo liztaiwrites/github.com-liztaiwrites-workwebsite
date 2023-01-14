@@ -6,7 +6,7 @@ slug: twitter-mess
 featured: true
 draft: false
 tags:
-  - career change
+  - social media
 
 description: People are getting fed up of their social media channels being wrecked by the actions of a few.
 ---
