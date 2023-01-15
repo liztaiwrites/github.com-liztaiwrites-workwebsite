@@ -1,5 +1,9 @@
 ---
+<<<<<<< HEAD
 title: What technical writers do
+=======
+title: The job of a technical writer
+>>>>>>> 2027e20f22db1e07f65b98c6fcfed47a3dfb594e
 author: Elizabeth Tai
 datetime: 2023-01-05
 slug: technical-writer
@@ -9,7 +13,11 @@ tags:
   - technical writing
   - writing careers
 
+<<<<<<< HEAD
 description: Explaining what technical writers do
+=======
+description: Explaining what technical writers actually do and what it takes to be one.
+>>>>>>> 2027e20f22db1e07f65b98c6fcfed47a3dfb594e
 ---
 
 I am a Technical Writer.
