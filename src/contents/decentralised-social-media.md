@@ -6,7 +6,7 @@ slug: fediverse-social-media
 featured: true
 draft: false
 tags:
-  - socialmedia
+  - social media
 
 description: The rise of static websites is another sign that people want to move away from centralised platforms to the "Fediverse".
 ---
