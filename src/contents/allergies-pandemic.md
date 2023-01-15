@@ -8,7 +8,7 @@ draft: false
 tags:
   - personal
 ogImage: ""
-description: In a pandemic, every day is a "OMG do I have COVID??" day
+description: In a pandemic, every day is a "OMG do I have COVID" day
 ---
 
 During the pandemic, which is, _still now_, things can get a little complicated when you are a person with allergies.

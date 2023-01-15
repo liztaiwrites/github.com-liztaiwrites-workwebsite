@@ -1,5 +1,5 @@
 ---
-title: What do B2B writers do?
+title: How to be a B2B writer
 author: Elizabeth Tai
 datetime: 2022-07-20T04:58:53Z
 slug: B2B-writers
@@ -8,7 +8,7 @@ draft: false
 tags:
   - writing careers
 
-description: B2B writers are often paid more, but what makes them so special?
+description: A B2B writer often earns more. Here's how to be one.
 ---
 
 I think there's a lot of mystique around #B2B marketing. People tend to think of it as difficult. I've been told that a lot of copywriters even avoid the industry as it's not as fun as #B2C.

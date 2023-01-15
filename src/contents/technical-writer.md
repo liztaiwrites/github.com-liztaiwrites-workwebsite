@@ -1,5 +1,5 @@
 ---
-title: What's a technical writer?
+title: What technical writers do
 author: Elizabeth Tai
 datetime: 2023-01-05
 slug: technical-writer
@@ -9,12 +9,12 @@ tags:
   - technical writing
   - writing careers
 
-description: What do technical writers actually do? And what does it take to be one?
+description: Explaining what technical writers do
 ---
 
 I am a Technical Writer.
 
-I'm the person who creates software documentation.\* The simplest explanation for what I do is that I help users use software with content. Let's say you want to build a Squarespace website. One of the documents that you probably would look at are User Guides, usually nestled in the Help section. That's an example of what I create day in day out.
+I'm the person who creates software documentation. The simplest explanation for what I do is that I help users use software with content. Let's say you want to build a Squarespace website. One of the documents that you probably would look at are User Guides, usually nestled in the Help section. That's an example of what I create day in day out.
 
 I explored various content careers in previous posts. Today, I'll talk about the fascinating #technicalwriting field.
 
