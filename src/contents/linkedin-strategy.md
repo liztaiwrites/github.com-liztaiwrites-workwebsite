@@ -6,7 +6,7 @@ slug: what-to-post-on-Linkedin
 featured: false
 draft: false
 tags:
-  - socialmedia
+  - social media
 ogImage: ""
 description: What you post on Linkedin could reflect on you as a professional.
 ---
