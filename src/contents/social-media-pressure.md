@@ -6,7 +6,7 @@ slug: social-media-pressures
 featured: false
 draft: false
 tags:
-  - social media
+  - socialmedia
 
 description: National Geographic's social media snafu is a reminder about the pressures a social media manager faces.
 ---

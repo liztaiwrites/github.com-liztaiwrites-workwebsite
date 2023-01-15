@@ -6,7 +6,7 @@ slug: content-strategists-types
 featured: false
 draft: false
 tags:
-  - writing careers
+  - writing
 
 description: UX Content Strategists and Content Marketing strategists - what makes them different?
 ---

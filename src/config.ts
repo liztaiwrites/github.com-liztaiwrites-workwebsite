@@ -1,10 +1,10 @@
 import type { SocialObjects } from "./types";
 
 export const SITE = {
-  website: "https://astro-paper.pages.dev/",
+  website: "https://elizabethtai.netlify.app/",
   author: "Elizabeth Tai",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "Elizabeth Tai, Tech Writer",
+  desc: "Blogging about technical writing and content strategy from a Malaysian perspective.",
+  title: "Liz Tai Writes",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
@@ -30,7 +30,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on Facebook`,
     active: false,
   },
-    {
+  {
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/elizabethtai/",
     linkTitle: `${SITE.title} on LinkedIn`,
@@ -38,9 +38,9 @@ export const SOCIALS: SocialObjects = [
   },
   {
     name: "Mail",
-    href: "mailto:liztaiwrites@gmail.com",
+    href: "https://www.elizabethtai.com/contact",
     linkTitle: `Send an email to ${SITE.title}`,
-    active: false,
+    active: true,
   },
   {
     name: "Mastodon",
@@ -48,7 +48,7 @@ export const SOCIALS: SocialObjects = [
     linkTitle: `${SITE.title} on Mastodon`,
     active: true,
   },
-    {
+  {
     name: "YouTube",
     href: "https://github.com/satnaing/astro-paper",
     linkTitle: `${SITE.title} on YouTube`,
