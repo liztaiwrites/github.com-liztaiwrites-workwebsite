@@ -44,9 +44,8 @@ const socialCount = SOCIALS.filter(social => social.active).length;
 
       <p>
         I'm a technical writer based in Kuala Lumpur, Malaysia. This website
-        hosts my portfolio and articles on technical writing, content strategy
-        and career tips for content professionals. To not miss a post, follow
-        this blog via RSS.
+        hosts my articles on technical writing, content strategy and career tips
+        for content professionals. To not miss a post, follow this blog via RSS.
       </p>
       <p>
         Or you can
@@ -75,7 +74,7 @@ const socialCount = SOCIALS.filter(social => social.active).length;
       featuredPosts.length > 0 && (
         <>
           <section id="featured">
-            <h2>Featured</h2>
+            <h2>Projects</h2>
             <ul>
               {featuredPosts.map(({ frontmatter }) => (
                 <Card
