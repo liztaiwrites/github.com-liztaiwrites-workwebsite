@@ -16,6 +16,6 @@ Can a non-developer build a static website? Some people enthusiastically say yes
 
 # Project log
 
-## [The future of social media is decentralised](/fediverse-social-media)
+## [The future of social media is decentralised](/posts/fediverse-social-media)
 
 My desire to build a static website was mostly filled by Elon Musk's takeover of Twitter. That was when I discovered not just the Fediverse, but the idea of static websites.
