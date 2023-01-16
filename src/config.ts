@@ -3,8 +3,8 @@ import type { SocialObjects } from "./types";
 export const SITE = {
   website: "https://elizabethtai.netlify.app/",
   author: "Elizabeth Tai",
-  desc: "Blogging about technical writing and content strategy from a Malaysian perspective.",
-  title: "Liz Tai Writes",
+  desc: "A blog about technical writing and content strategy from a Malaysian perspective.",
+  title: "Front Matter",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
