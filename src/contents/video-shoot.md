@@ -8,7 +8,7 @@ draft: false
 tags:
   - personal
 
-description: A peek behidn the camera - coordinating interviews and video shoots with The Malay Mail.
+description: A peek behind the camera - coordinating interviews and video shoots with The Malay Mail.
 ---
 
 ![Video shoot at Experian Malaysia offices](https://media.licdn.com/dms/image/C5122AQGlgLqLVj9QGQ/feedshare-shrink_800/0/1561109637877?e=1676505600&v=beta&t=fjknBpP87wcgVAb0sMsJyz6HxXsyiO_CyKmRu4I0Sjc)

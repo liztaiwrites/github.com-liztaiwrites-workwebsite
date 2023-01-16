@@ -9,7 +9,7 @@ tags:
   - projects
   - astro
 
-description: In which I, a non-developer, document my project to build a static website using Astro.
+description: In which I, a non-developer, attempts to build a static website using Astro.
 ---
 
 Can a non-developer build a static website? Some people enthusiastically say yes, but I have a feeling developers overestimate our abilities. Here's my journey to building a static website using the Astro framework.
