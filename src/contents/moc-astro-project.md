@@ -1,7 +1,7 @@
 ---
 title: Building a static website using Astro
 author: Elizabeth Tai
-datetime: 2023-14-20T04:58:53Z
+datetime: 2023-01-15T04:58:53Z
 slug: astro-website-series
 featured: true
 draft: false
