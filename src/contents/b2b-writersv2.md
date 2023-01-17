@@ -1,5 +1,5 @@
 ---
-title: What do B2B writers do?
+title: What B2B writers do
 author: Elizabeth Tai
 datetime: 2023-01-15T04:58:53Z
 slug: b2b-writers
