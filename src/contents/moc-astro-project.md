@@ -19,3 +19,7 @@ Can a non-developer build a static website? Some people enthusiastically say yes
 ## [The future of social media is decentralised](/posts/fediverse-social-media)
 
 My desire to build a static website was mostly filled by Elon Musk's takeover of Twitter. That was when I discovered not just the Fediverse, but the idea of static websites.
+
+## [Why I chose Astro to build my static website](/posts/why-astro)
+
+Why Astro? Why not Hugo, 11ty or more layman-friendly CMSes like Wordpress or Ghost? I lay out my journey to Astro here.
