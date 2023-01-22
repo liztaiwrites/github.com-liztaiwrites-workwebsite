@@ -76,3 +76,5 @@ Can I say how much I love the tutorial? I adore checking things off like a good 
 Thanks to the documentation, I was able to put up a static website (this blog!) in a week.
 
 This goes to show how important documentation is. It often determines if a software will be adopted, and Astro won me over because of their non-developer-friendly documentation.
+
+What do you think? [Share your thoughts on Linkedin](https://www.linkedin.com/posts/elizabethtai_developer-wordpress-websites-activity-7023063249558396928-Mn0z?utm_source=share&utm_medium=member_desktop).
