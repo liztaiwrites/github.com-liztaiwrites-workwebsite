@@ -57,7 +57,7 @@ Could a non-developer like me build a static website?
 
 Since I'm a sucker for really tough projects like these, I dove in.
 
-And discovered that the documentation for most of static website generators (SSGs) were written for developers and were almost incomprehensive to non-developers.
+And discovered that the documentation for most static website generators (SSGs) were written for developers and were nigh incomprehensible to non-developers.
 
 I almost gave up on the idea when going through the documentation for the "easiest" static website generator Hugo. There was just no way to understand what I needed to do because I had no prior knowledge of things like Git, Github, React, JSnode and more.
 
