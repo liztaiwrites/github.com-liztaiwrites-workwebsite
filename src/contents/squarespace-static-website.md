@@ -58,8 +58,6 @@ There is no doubt that there are developers who have 1000+ pages of content and 
 
 This video, [Why I Switched To Astro But You Probably Shouldn’t](https://youtu.be/YtaR_I65wmI), was also very revealing.
 
-<iframe width="800" height="550" src="https://www.youtube.com/embed/YtaR_I65wmI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 One day, his Gatsby website just ... stopped working. He had over a 100 posts by then.
 
 "Nothing I did could fix it," he laments. And he is clearly an experienced developer!
