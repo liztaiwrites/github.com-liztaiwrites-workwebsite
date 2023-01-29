@@ -23,3 +23,7 @@ My desire to build a static website was mostly fuelled by Elon Musk's takeover o
 ## [Why I chose Astro to build my static website](/posts/why-astro)
 
 Why Astro? Why not Hugo, 11ty or more layman-friendly CMSes like Wordpress or Ghost? I lay out my journey to Astro here.
+
+## [Why I'm NOT moving from Squarespace to Astro](posts/not-moving-squarespace-to-astro)
+
+I have about 260+ blog posts on Squarespace. And as much as I love Astro, I'm not going to turn it into a static website.
