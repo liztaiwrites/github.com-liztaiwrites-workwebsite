@@ -62,4 +62,10 @@ I consider myself relatively knowledgeable in this area, but there was still a l
 
 ## Edit, 6 February 2023
 
-Would I still recommend CIM? Yes, but only if you want to get that stamp of approval, and only if companies value it. These days, you can easily skill up online. The most important thing about studying digital marketing is so that you can be job-ready. CIM courses tend to skew towards the more academic, and while it's better than most, you probably need to have more practical know-how to snag in the very competitive digital marketing job market.
+Would I still recommend CIM? Yes, but only if you want to get that stamp of approval, and only if companies value it. These days, you can easily skill up online. The most important thing about studying digital marketing is so that you can be job-ready. CIM courses tend to skew towards the more academic, and while it's better than most, you probably need to have more practical know-how to snag a job in the very competitive digital marketing job market. I'd recommend that you do the following:
+
+- Study practical digital marketing skills (online or offline)
+- Do a project to apply acquired skills
+- Network with people in the industry
+
+Good luck!
