@@ -1,5 +1,5 @@
 ---
-title: So you want to be a content strategist 
+title: So you want to be a content strategist
 author: Elizabeth Tai
 datetime: 2018-03-04T04:58:53Z
 slug: content-strategist
@@ -7,9 +7,9 @@ featured: false
 draft: false
 tags:
   - careerchange
-- contentstrategy
+  - contentstrategy
 
-description: Exploring the role of the content strategist. 
+description: Exploring the role of the content strategist.
 ---
 
 In March, I finally became a Content Strategist, a profession I’ve been trying to get into since I took up the CIM Digital Marketing diploma in 2015.
